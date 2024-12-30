@@ -1,8 +1,8 @@
 export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
-  name: "Techwave",
-  description: `The "Tech Tips & Tricks" project is a dynamic full-stack web application designed to help tech enthusiasts navigate and master the ever-evolving world of technology.`,
+  name: "Portfolio Dashboard",
+  description: `I’m a Full-Stack Engineer passionate about building impactful digital experiences. With expertise in technologies such asReact, Next.js, Node.js, MongoDB, and PHP, I specialize in creating solutions that are scalable, user-centric, and aligned with business needs`,
   navItems: [
     {
       label: "News Feed",
